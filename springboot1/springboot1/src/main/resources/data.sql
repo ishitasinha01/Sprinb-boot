@@ -1,0 +1,6 @@
+insert into COURSE (ID,AUTHOR,NAME)
+values(10001,'inmin','uhdud')
+insert into COURSE (ID, AUTHOR, NAME)
+values (10002,'indnjd','dhnud')
+insert into COURSE (ID, AUTHOR, NAME)
+values (10003,'djdkd','dsbjdn')
